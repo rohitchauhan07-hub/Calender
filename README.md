@@ -13,7 +13,7 @@ A simple and responsive calendar built using **HTML**, **CSS**, and **JavaScript
 ## 🛠️ Built With
 
 - HTML  
-- CSS3  
+- CSS 
 - JavaScript
 
 ## 📸 Screenshot
